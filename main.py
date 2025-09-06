@@ -17,7 +17,8 @@ from selenium.webdriver.common.keys import Keys
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
-driver.get("https://www.google.com")
+
+driver.get("https://www.noon.com")
 close = input('enter a key to close')
 
 driver.find_element(By.CLASS_NAME , "L3eUgb" )
