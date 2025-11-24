@@ -1,6 +1,8 @@
 # Selenium main WebDriver
 from selenium import webdriver
-
+https://pypi.org/project/simpleseleniumwrapper/
+https://pypi.org/project/selenium-profiles/
+https://pypi.org/project/undetected-chromedriver/
 # Options for browsers (Chrome, Firefox, etc.)
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
